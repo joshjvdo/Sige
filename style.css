@@ -1,0 +1,219 @@
+body{
+  background -image:url bg.jpg;
+  background-size:100%;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
+  margin:0;
+  padding:0;
+  font-family:"Roboto", sans-serif;
+  }
+header {
+  position: fixed;
+  background:#0C090A;
+  padding:20px;
+  width:100%;
+  height:30px;
+  }
+. center _area{
+  float: right;
+  position:relative;
+  text-transform: uppercase;
+  top:0 px;
+  right:15%;
+  }
+. center _area a{
+  margin-left:100 px;
+  font-family: Roboto;
+  font-size:22 px;
+  line-height:36 px;
+  color:$FFFFFF;
+  }
+.Career_btn:hover{
+  background:#1589FF;
+  }
+.Travel_btn{
+  padding:5 px;
+  background:#C0C0C0;
+  text-decoration:none;
+  float: right;
+  margin-top: 35 px;
+  margin-right:4o px;
+  border-radius:10 px;
+  font-size: 15 px;
+  font-weight:600 px;
+  transition:0.5s;
+  transition -property: background;
+  }
+.Travel_btn:hover{
+  background:#1589FF;
+  }
+.Home_btn:hover{
+  padding:5 px;
+  background:#C0C0C0;
+
+  text-decoration:none;
+  float: right;
+  margin-top: 35 px;
+  margin-right:40 px;
+
+  border-radius:10 px;
+  font-size: 15 px;
+  font-weight:600 px;
+  transition:0.5s;
+  transition -property: background;
+  .Home_btn:hover{
+    background -#1589FF;
+  }
+  .logout_btn{
+    padding:5 px;
+  background:#C0C0C0;
+  text-decoration:none;
+  float: right;
+  margin-top: 25px;
+  margin-right:4o px;
+  border-radius:10 px;
+  font-size: 15 px;
+  font-weight:600 px;
+  transition:0.5s;
+  transition -property: background;
+   }
+  .logout_btn:hover{
+    background:#1589FF;
+    }
+  .sidebar{
+    background:#686A6C;
+    magrin-top:70 px;
+    padding -top:30 px;
+    position:fixed;
+    left:0;
+    width:250 px;
+    height:100 px;
+    transition: 0.5s;
+    transition -property:left;
+    }
+  .sidebar Profile_image{
+    borde-radius: 100 px;
+    margin- buttom: 10 px;
+    }
+  .sidebar h4{
+    color: black;
+    margin-top: 0;
+    margin-buttom:20 px;
+    }
+  .sidebar a{
+    display:block;
+    width:100%;
+    line-height: 60 px;
+    text- decoration: none;
+    padding-left: 40 px;
+    box-sizing: border-box;
+    transition:0.5s;
+    transition-property: background;
+    }
+  .sidebar a:hover{
+    background:#1589FF;
+    }
+  .sidebar i{
+    padding-right:10 px;
+    }
+  label #sidebar_btn{
+    z-index: 1;
+    color:white;
+    position:fixed;
+    cursor:pointer;
+    left:30 px;
+    font-size: 20px;
+    margin:5 px;
+    transition:0.5s;
+    transition-property:color;
+    }
+  label #sidebar_btn:hover{
+    color: #1589FF;
+    }
+  #check: checked -.sidebar{
+    left:190 px;
+    }
+  #check: checked -.sidebar a span{
+    display:none;
+    }
+  #check: checked -.sidebar a{
+    font-size: 20 px;
+    margin-left:170 px;
+    width:80 px;
+    }
+  #check:hecked-.content{
+    margin-lrft: 60 px;
+    }
+  #check{
+    display:none;
+    }
+  . Profile {
+    box=shadow: 0 4 px 8 px 0 rgba(0,0,0,2);
+    max-width:550 px;
+    marrgin-auto;
+    transition:1s;
+    text-align: right;
+    font-family:arial;
+    }
+  .card{
+    width:100%;
+    padding: 10 px;
+    margin: 100 px auto;
+    display:flex; 
+    flex-direction:row;
+    justify-context: center;
+    }
+  .Travel:hover{
+    transform:scale(1.3);
+    z-index: 2;
+    }
+  .Travel{
+    color:white;
+    font-size:22 px;
+    }
+  h1{
+    color:white;
+    font-size:50 px;
+    }
+  i,span{
+    color:black;
+    font-size:22 px;
+    }
+  .card{
+    margin-left:100 px;
+    }
+  
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+  
+    
+    
+    
+ 
+
+    
+
+    
+    
+  
+
+

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="profile.css">
+</head>
+<body>
+<nav>
+<ul>
+<li><a href="profile.html">Profile</a></li>
+<li><a href="travel.html">Travel</a></li>
+<li><a href="career.html">Career</a</li>
+</ul>
+</nav>
+<div class="box">
+<img src="josh.jpg" alt="" class="box-img">
+<h1>Joshua Javido</h1>
+<h5>Bachelor of Science in Information Technology</h5>
+<p> I am Joshua H. Javido 24 years olad from Tagoloan, Misamis Oriental. Taking a course of Bachelor of Science in Information Technology currently a 3rd year student on Tagoloan Community College</p>
+</body>
+</html>

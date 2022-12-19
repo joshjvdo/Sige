@@ -1,0 +1,196 @@
+body{
+background-image:url('bg.jpg');
+background-size:100%;
+background-reapet: no- reaper;
+background-attachment: fixed;
+margin:0;
+padding:0;
+font-family:"Roboto", sans-serif;
+}
+header{
+position:fixed;
+Background:#0C090A;
+padding:20px;
+width:100%;
+height:30px;
+}
+.center_area{
+float:right;
+position:relative;
+text-transform: uppercase;
+top:0px;
+right:15%;
+}
+.center_area{
+margine-left:100px;
+font-family:Roboto;
+font-wight:bold;
+font-size:22px;
+line-height:36px;
+color:#FFFFFF;
+}
+.Career_btn{
+padding:5px;
+background:#C0C0C0;
+text-decoration:none;
+float:right;
+margin-top:35px;
+margin-right:40px;
+border-radius:10px;
+font-size:15px;
+font-wight:600;
+transition:0.5s;
+transition-property: bacground;
+}
+.career_btn:hover{
+background:#1589FF;
+}
+.Travel_btn{
+padding:5px;
+background:#C0C0C0;
+text-decoration:none;
+float:right;
+margin-top:35px;
+margin-right:40px;
+border-radius:10px;
+font-size:15px;
+font-wight:600;
+transition:0.5s;
+transition-property: bacground;
+}
+.Home_btn:hover{
+background:#1589FF;
+Career_btn{
+padding:5px;
+background:#C0C0C0;
+text-decoration:none;
+float:right;
+margin-top:35px;
+margin-right:40px;
+border-radius:10px;
+font-size:15px;
+font-wight:600;
+transition:0.5s;
+transition-property: bacground;
+}
+.Logout_btb:hover{
+background:#1589FF;
+Career_btn{
+padding:5px;
+background:#C0C0C0;
+text-decoration:none;
+float:right;
+margin-top:25px;
+margin-right:40px;
+border-radius:10px;
+font-size:15px;
+font-wight:600;
+transition:0.5s;
+transition-property: bacground;
+}
+.logout_btn{
+bacground:#1589FF;
+}
+.sidebar{
+background:#686A6C;
+margin-top:70px;
+padding-top:30px;
+position:fixed;
+left:0;
+width:250px;
+height:100px;
+transition:0.5s:
+B
+transition-property:left;
+}
+.sidebar .Profile_image{
+border-radius:100px;
+margin-buttom:10px;
+}
+.sidebar h4{
+color:black;
+margin-top:0;
+margin-buttom:20px;
+}
+.sidebar a{
+display:black;
+width:100%;
+line-height:60px;
+text-decoration:none;
+padding-left:40px;
+box-sizing:border-box;
+transition:0.5s;
+transition-property: background;
+}
+.sidebar a{
+background:#1589FF;
+}
+.sidebar a:hover{
+pading-right:10px;
+}
+label #sidebar_btn{
+z-index:1;
+color:white;
+position:fixed;
+cursor:pointer;
+left:300px;
+font-size:20px;
+margin:5px 0;
+transition:0.5s;
+transition-property:color;
+}
+label #sidebar_btn:hover{
+color:#1589Ff;
+}
+#check:checked~.sidebar{
+left:-190px;
+}
+#check:checked~.sidebar a span{
+display:none;
+}
+#check:checked~.sidebar a{
+font-size:20px;
+margine-left:170px;
+width:80px;
+}
+#check:checked~.cobtent{
+margine-left:60px;
+}
+#check{
+display:none;
+}
+.Profile{
+box-shadow:0 4px 8px 0 rgba(0,0,0.2);
+max-width:550px;
+margin:auto;
+transition:1s;
+text-align:right;
+font-family:Arial;
+}
+.card{
+width:100%;
+padding:10px;
+margin:100px auto;
+display:flex;
+flex-directio :row;
+justify-context:center;
+}
+.Career:hover{
+transform:scale(1.3);
+Z-index:2;
+}
+.Career{
+color:white;
+font-size:22px;
+}
+h1{
+color:white;
+font-size:50px;
+}
+I, span{
+color:black;
+font-size:22px;
+}
+.card{
+margine-left:100px;
+}

@@ -1,7 +1,7 @@
 body{
 background-image:url('bg.jpg');
 background-size:100%;
-background-reapet: no- reaper;
+background-reapet: no-reapet;
 background-attachment: fixed;
 margin:0;
 padding:0;
@@ -21,10 +21,10 @@ text-transform: uppercase;
 top:0px;
 right:15%;
 }
-.center_area{
+.center_area a{
 margine-left:100px;
 font-family:Roboto;
-font-wight:bold;
+font-weight:bold;
 font-size:22px;
 line-height:36px;
 color:#FFFFFF;
@@ -56,11 +56,12 @@ border-radius:10px;
 font-size:15px;
 font-wight:600;
 transition:0.5s;
-transition-property: bacground;
+transition-property: background;
 }
-.Home_btn:hover{
+.Travel_btn:hover{
 background:#1589FF;
-Career_btn{
+}
+.Home_btn{
 padding:5px;
 background:#C0C0C0;
 text-decoration:none;
@@ -71,11 +72,12 @@ border-radius:10px;
 font-size:15px;
 font-wight:600;
 transition:0.5s;
-transition-property: bacground;
+transition-property: background;
 }
-.Logout_btb:hover{
+.Home_btn:hover{
 background:#1589FF;
-Career_btn{
+}
+.Logout_btn{
 padding:5px;
 background:#C0C0C0;
 text-decoration:none;
@@ -88,7 +90,7 @@ font-wight:600;
 transition:0.5s;
 transition-property: bacground;
 }
-.logout_btn{
+.logout_btn:hover{
 bacground:#1589FF;
 }
 .sidebar{
@@ -100,17 +102,16 @@ left:0;
 width:250px;
 height:100px;
 transition:0.5s:
-B
 transition-property:left;
 }
 .sidebar .Profile_image{
 border-radius:100px;
-margin-buttom:10px;
+margin-bottom:10px;
 }
 .sidebar h4{
 color:black;
 margin-top:0;
-margin-buttom:20px;
+margin-bottom:20px;
 }
 .sidebar a{
 display:black;
@@ -122,10 +123,10 @@ box-sizing:border-box;
 transition:0.5s;
 transition-property: background;
 }
-.sidebar a{
+.sidebar a:hover{
 background:#1589FF;
 }
-.sidebar a:hover{
+.sidebar i{
 pading-right:10px;
 }
 label #sidebar_btn{
@@ -153,7 +154,7 @@ font-size:20px;
 margine-left:170px;
 width:80px;
 }
-#check:checked~.cobtent{
+#check:checked~.content{
 margine-left:60px;
 }
 #check{
@@ -165,14 +166,14 @@ max-width:550px;
 margin:auto;
 transition:1s;
 text-align:right;
-font-family:Arial;
+font-family:arial;
 }
 .card{
 width:100%;
 padding:10px;
 margin:100px auto;
 display:flex;
-flex-directio :row;
+flex-direction:row;
 justify-context:center;
 }
 .Career:hover{
@@ -187,7 +188,7 @@ h1{
 color:white;
 font-size:50px;
 }
-I, span{
+i, span{
 color:black;
 font-size:22px;
 }
